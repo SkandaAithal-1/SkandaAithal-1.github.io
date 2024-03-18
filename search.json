@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website",
+    "section": "",
+    "text": "I am a Sophomore in the Department of Electronics and Electrical Communication Engineering at the Indian Institute of Technology, Kharagpur. My current research interest is in Multi-Agent Reinforcement Learning, Deep Learning, Computer Vision, Control Theory and its application in autonomous intelligent systems. This interest started to stem in me because of my interest in robotics and me starting to study Machine Learning and Deep Learning.\nNow, the burning question you might have (because let’s face it, my academic achievements are practically screaming for attention): what in the world does the U in my name stand for?\nWell the answer is Uppunda, my hometown.\nAlso do not try to look for me where I am supposed to be at."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Other",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Gesture Controlled Drone \n  Behavioural Cloning and Dagger Implementation \n  Object Detection using transfer learning \n  not your usual PPT Gesture Control"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "My CV will be here pretty soon"
+  },
+  {
+    "objectID": "other.html",
+    "href": "other.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Interests and Hobbies:\n\nSports:\nCricket:\nI have been playing cricket since my childhood. Even though not at a professional level I have loved playing the game. I also follow international cricket.\nVolleyball:\nI also play volleyball. I like to play the position of a setter. I started playing this in my high school days and trust me I was really bad at this. But now I think I play decent volleyball.\n\n\nMusic:\nInstruments:\nI play Tabla. I have learnt classical Tabla for about two to three years long back. But after that I have just played Tabla as a supporting instrument. I would like to learn a couple more instruments like Guitar and Piano.\nListening:\nThis depends a lot on my mood and also probably my surroundings. My favorite artists include Arctic Monkeys, Green Day, AC/DC, Linkin Park, Maneskin, One Republic and more. I also occasionally listen to Bollywood and Sandalwood. Favorite singers here would include Arijit Singh, Sonu Nigam, Shreya Ghoshal, Vijay Prakash, Sanjith Hegde and more.\n\n\nEntertainment:\nYakshagana:\nThis is a sort of play that is very popular in coastal Karnataka. I used to take part in this in my highschool days. Roles I played include Nakula, Krishna, Drupada and Valmiki. I do not enjoy watching this as much as I enjoy playing a role in this.\nManga/Anime:\nI also love watching anime and reading manga. My first anime was Naruto. My first manga was Jujutsu Kaisen and I started reading this because I got some spoilers and I definitely do not like them. So I caught up to the manga. And then I continued reading different mangas based on my friends recommendations. Manga I read or anime I watched include One Piece, Demon Slayer, Haikyu, Akame ga kill, Solo Leveling, Omniscient Reader’s Viewpoint, Ao Ashi, Anohana, Vinland Saga and many more."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Welcome to my website",
+    "section": "Contact",
+    "text": "Contact"
+  },
+  {
+    "objectID": "other.html#interests-and-hobbies",
+    "href": "other.html#interests-and-hobbies",
+    "title": "About Me",
+    "section": "",
+    "text": "Cricket:\nI have been playing cricket since my childhood. Even though not at a professional level I have loved playing the game. I also follow international cricket.\nVolleyball:\nI also play volleyball. I like to play the position of a setter. I started playing this in my high school days and trust me I was really bad at this. But now I think I play decent volleyball.\n\n\n\nInstruments:\nI play Tabla. I have learnt classical Tabla for about two to three years long back. But after that I have just played Tabla as a supporting instrument. I would like to learn a couple more instruments like Guitar and Piano.\nListening: This depends a lot on my mood and also probably my surroundings."
+  }
+]

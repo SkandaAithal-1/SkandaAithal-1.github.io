@@ -1,0 +1,54 @@
+project:
+  type: website
+
+website:
+  search: true
+  title: "U Skanda Aithal"
+  margin-header: 
+    |
+    <style>
+      .Profile{
+        border-radius: 800px;
+        max-width: 80%;
+        margin-right: auto;
+      }
+      .Name{
+        <!--text-align: center;-->
+        font-size: 25px;
+      }
+      .Institute{
+        font-size: 15px;
+        color: inherit;
+        <!--text-align: center;-->
+      }
+    </style>
+    <img class="Profile" src="/images/IMG_20230821_144754.png" width=150px height=150px/>
+    <p></p>
+    <p class="Name">**U Skanda Aithal**</p>
+    <p class="Institute"> Sophomore at Indian Institute of Technology, Kharagpur </p>
+    <div class="container">
+      <i class="bi bi-geo-alt-fill"></i> <span class="Institute">Kharagpur, West Bengal</span>  
+      <i class="bi bi-envelope"></i><a class="Institute" href="mailto:aithalskanda66@gmail.com"> Email </a>  
+    </div>
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+      - other.qmd
+      - href: files/CV_SkandaAithal.pdf
+        icon: file-pdf
+        text: CV
+      - href: https://github.com/SkandaAithal-1
+        icon: github
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+
+
+

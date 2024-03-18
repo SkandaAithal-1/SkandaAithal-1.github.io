@@ -1,0 +1,9 @@
+---
+title: "Projects"
+---
+---
+
+<i class="bi bi-github" style="vertical-align: center;"></i>  <a href="https://github.com/SkandaAithal-1/JutsuGestureControl" style="color: inherit; font-size: 25px; text-decoration: none;"> Gesture Controlled Drone </a>  
+<i class="bi bi-github" style="height: 20px; width:20px;"></i>  <a href="https://github.com/SkandaAithal-1/berkeleyDeepRLHomework_fall2023/tree/main/hw1 " style="color: inherit; font-size: 25px; text-decoration: none;"> Behavioural Cloning and Dagger Implementation </a>  
+<i class="bi bi-github"></i>  <a href="https://github.com/SkandaAithal-1/ARK-tasks/tree/main/Task%205" style="color: inherit; font-size: 25px; text-decoration: none;"> Object Detection using transfer learning </a>  
+<i class="bi bi-github"></i>  <a href="https://github.com/SkandaAithal-1/PPT-Gesture-Control" style="color: inherit; font-size: 25px; text-decoration: none;"> not your usual PPT Gesture Control </a>
